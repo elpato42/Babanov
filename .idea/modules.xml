@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Babanov.iml" filepath="$PROJECT_DIR$/Babanov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M/M.iml" filepath="$PROJECT_DIR$/M/M.iml" />
+    </modules>
+  </component>
+</project>
